@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HavaDurumu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="temrature">sicaklik</string>
+    <string name="condantion">durum</string>
+    <string name="location">adres</string>
+</resources>
